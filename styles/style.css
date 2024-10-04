@@ -1,0 +1,41 @@
+html {
+    font-size: 10px;
+    font-family: "Nunito Sans", sans-serif;
+    background-color: #f4ecf7;
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #f4ecf7;
+    padding: 0 32px 32px 32px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #4e006c;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 16px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    width: 60%;
+    margin: auto;
